@@ -1,0 +1,17 @@
+root: pppw(humn) + sjmn(150)
+dbpl: 5
+cczh: sllz(4) + lgvd(humn) -> {4 + humn(it)}
+zczc: 2
+ptdq: humn({it}) - dvpt(3) -> {humn(it) - 3}
+dvpt: 3
+lfqf: 4
+humn: 5
+ljgn: 2
+sjmn: drzm(30) * dbpl(5) -> 150
+sllz: 4
+pppw: cczh(humn) / lfqf(4) -> {humn(it) / 4}
+lgvd: ljgn(2) * ptdq(humn) -> {2 * humn(it)}
+drzm: hmdt(32) - zczc(2) -> 30
+hmdt: 32
+
+(4 + (2 * (it - 3))) / 4
